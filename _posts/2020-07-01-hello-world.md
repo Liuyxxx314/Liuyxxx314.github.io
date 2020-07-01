@@ -4,11 +4,11 @@ title: 'Hello 2020'
 date: 2020-07-01
 author: Jekyll
 color: rgb(255,210,32)
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+cover: '../assets/test.png'
 tags: jekyll
 ---
 
-> Transform your plain text into static websites and blogs.
+> hi
 
 # Welcome
 
