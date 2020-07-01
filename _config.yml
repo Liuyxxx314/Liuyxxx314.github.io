@@ -20,7 +20,7 @@ webtitle: '今天吃了吗'
 bio: '无言无语，闲言小语'
 about: true
 aboutyou: ''
-portraits: '/assets/profile.jpeg' # your portraits image file path
+portraits: '/assets/photo.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
