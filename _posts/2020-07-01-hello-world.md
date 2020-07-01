@@ -5,7 +5,7 @@ date: 2020-07-01
 author: Jekyll
 color: rgb(255,210,32)
 cover: '../assets/test.png'
-tags: jekyll
+tags: LiuYuxin
 ---
 
 > hi
