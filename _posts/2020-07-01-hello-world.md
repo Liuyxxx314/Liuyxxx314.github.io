@@ -14,5 +14,7 @@ tags: 叽叽喳喳
 第一篇博客，今天吃了吗？
 不知道说点啥了，随便写两句占字数吧
 
+# BYE
+常来看看啊
 
 <iframe type="text/html" width="100%" height="385" src="http://www.youtube.com/embed/gfmjMWjn-Xg" frameborder="0"></iframe>
