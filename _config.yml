@@ -1,25 +1,25 @@
 # Site settings 配置站点
 title: 'ChitChat'
 description: '闲来无事来逛逛'
-keywords: '读书，快乐，游戏'
+keywords: '好好学习，天天开心'
 url: 'https://Liuyxxx314.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
   标签: '/tags.html'
-  时间线: '/timeline.html'
-  关于博主: '/about.html'
+  TimeLine: '/timeline.html'
+  AboutMe: '/about.html'
   # 友情链接: '/friendLink.html'
 
 # 博主
 author: true
 name: 'Liu Yuxin'
 NickName: '刘本氚'
-webtitle: '嘻嘻'
-bio: 'your awesome bio'
+webtitle: '今天吃了吗'
+bio: '无言无语，闲言小语'
 about: true
-aboutyou: 'your introduction'
+aboutyou: ''
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
@@ -30,7 +30,7 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   # qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://www.github.com/Liuyxxx314/'
   # Codepen: ''
-  weibo: ''
+  weibo: '我先干了您随意'
   #instagram: ''
   #Twitter: ''
   #Dribbble: ''
@@ -46,7 +46,7 @@ paginatepath: ['page:num']
 
 # since
 footer:
-  since: 2018
+  since: 2020
 
 # Markdown
 markdown: kramdown
@@ -77,7 +77,7 @@ client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true
-social-share-items: ['qq', 'wechat', 'weibo', 'twitter', 'facebook']
+social-share-items: ['qq', 'wechat', 'weibo']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
 #baidu: true
