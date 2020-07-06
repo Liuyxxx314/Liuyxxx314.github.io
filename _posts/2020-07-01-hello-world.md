@@ -3,7 +3,7 @@ layout: post
 title: 'Hello 2020'
 date: 2020-07-01
 author: Liuyuxin
-color: rgb(255,210,32)
+color: rgb(255,130,71)
 cover: '../assets/test.png'
 tags: 叽叽喳喳
 ---
