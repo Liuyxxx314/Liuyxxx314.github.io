@@ -3,7 +3,7 @@ layout: post
 title: 'BDD测试框架Cucumber学习记录'
 date: 2020-07-08
 author: Liuyuxin
-color: rgb(255,210,32)
+color: rgb(255,245,238)
 cover: '../assets/Image/cucumber.jepg'
 tags: 学习记录
 ---
