@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Wabisabi'
+title: 'Yuxin'
 description: '闲来无事来逛逛'
 keywords: '好好学习，天天开心'
 url: 'https://Liuyxxx314.github.io' # your host
@@ -16,8 +16,8 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 author: true
 name: 'Liu Yuxin'
 NickName: '刘本氚'
-webtitle: '今天吃了吗'
-bio: '无言无语，闲言小语'
+webtitle: 'How You Like That'
+bio: 'Look up in the sky, it's a bird, it's a plane.'
 about: true
 aboutyou: ''
 portraits: '/assets/photo.jpeg' # your portraits image file path
@@ -58,8 +58,8 @@ highlighter: rouge
 pygmentsTheme: 'default'
 
 # 友情链接
-friends:
-  jekyll: 'https://www.jekyll.com.cn/'
+# friends:
+#   jekyll: 'https://www.jekyll.com.cn/'
 
 # 评论 最佳体验 在disqus、livere和Gitment之间三选一
 # disqus 评论
