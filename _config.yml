@@ -4,22 +4,21 @@ description: '闲来无事来逛逛'
 keywords: '好好学习，天天开心'
 url: 'https://Liuyxxx314.github.io' # your host
 
-# nav 中文字符空格：&emsp;
+
 nav:
   HomePage: '/'
   Tags: '/tags.html'
   TimeLine: '/timeline.html'
   AboutMe: '/about.html'
-  # 友情链接: '/friendLink.html'
 
 # 博主
 author: true
 name: 'Liu Yuxin'
 NickName: '刘本氚'
-webtitle: 'How You Like That'
+webtitle: ''
 bio: 'Look up in the sky, it's a bird, it's a plane.'
 about: true
-aboutyou: '>3<'
+aboutyou: ''
 portraits: '/assets/photo.jpeg' # your portraits image file path
 
 # SNS
