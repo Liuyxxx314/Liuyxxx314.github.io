@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'Yuxin'
 description: '闲来无事来逛逛'
-keywords: '好好学习，天天开心'
+keywords: 'Obiviate'
 url: 'https://Liuyxxx314.github.io' # your host
 
 
@@ -54,7 +54,7 @@ kramdown:
 # 代码高亮 使用rouge
 highlighter: rouge
 # 代码高亮主题使用pygments主题: autumn\ default\ emacs\ friendly\ manni\ murphy\ pastie\ perldoc\ tango 任选一个你喜欢的主题名称填在下面的单引号中
-pygmentsTheme: 'default'
+pygmentsTheme: 'autumn'
 
 # 友情链接
 # friends:
