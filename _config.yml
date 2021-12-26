@@ -30,14 +30,8 @@ SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagr
   github: 'https://www.github.com/Liuyxxx314/'
   # Codepen: ''
   weibo: 'https://weibo.com/u/1794780404'
-  #instagram: ''
-  #Twitter: ''
-  #Dribbble: ''
-  #Facebook: ''
-  #Google: ''
-  #zhihu: ''
-  #juejin: ''
-  #twitch: ''
+ 
+
 
 # 分页
 paginate: 3
